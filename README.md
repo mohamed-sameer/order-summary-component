@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Order summery component solution](https://www.frontendmentor.io/solutions/order-summry-component-solution-4YBfGDgVdA)
+- Live Site URL: [Order summery component](https://order-summry-component-mohamed.netlify.app/)
 
 ## My process
 
